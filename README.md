@@ -1,5 +1,5 @@
 ## Hi G'Day 👋
-Here's Bohan Cheng, a junior frontend/full-stack developer who is strong at learning new stuff.\
+Here's Bohan Cheng, a full-stack developer especially strong at frontend, who is strong at learning new stuff.\
 Any opportunities can make me stronger, hopes we can together be better!
 ## Something about me 👓
 🔭 I’m currently working on ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=mdn-web-docs&logoColor=white) & ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)\
