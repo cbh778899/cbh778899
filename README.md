@@ -4,7 +4,7 @@ I'm passionate at learning new stuff and willing to share new knowledges.\
 Any opportunities can make me stronger, hopes we can together be better!
 ## Something about me 👓
 🔭 I’m currently working on ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white) & ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)\
-🌱 I’m currently learning NLP, 🤗Transformers.js and related topics.\
+🌱 I’m currently learning NLP, RAG and related topics.\
 💬 Ask me about Frontend & Javascript related stuff\
 🧰 Please see my **[Toolbox](https://github.com/cbh778899/MyToolBox)**!\
 😄 Pronouns: He/Him\
